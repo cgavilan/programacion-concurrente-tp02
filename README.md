@@ -1,5 +1,6 @@
-# programacion-concurrente-tp02
-Trabajo Practico Nro 2 de la materia Programacion Concurrente
+# Programacion Concurrente: Trabajo Práctico n° 2
+
+### Introducción al trabajo con hilos: Thread / Runnable
 
 ## Getting Started
 
