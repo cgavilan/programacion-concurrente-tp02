@@ -1,5 +1,4 @@
-import ejercicio05.MiHiloThread;
-
+package ejercicio05;
 public class UsoHilosThread {
     public static void main(String[] args) {
         System.out.println("Hilo principal iniciado.");
